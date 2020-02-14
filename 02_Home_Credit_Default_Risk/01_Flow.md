@@ -28,3 +28,16 @@
 
 2) Domain Knowledge Features
 
+## 4. Baseline
+
+1) Logistic Regression Implementation
+
+2) Random Forest
+
+- Make Predictions using Engineered Features
+- Testing Domain Features
+
+3) Feature Importances
+
+## 5.  Light Gradient Boosting Machine
+
