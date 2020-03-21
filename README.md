@@ -27,6 +27,3 @@ https://kaggle-kr.tistory.com/32
 ## Binary classification : Image classification
 
 04_StatoilC-CORE_Iceberg_Classifier_Challenge
-
-
-
